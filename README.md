@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/jomsk1e/jomsk1e/main/jomsk1e.png" alt="banner" style="text-align: center; margin-bottom: 30px;" />
 
 <!--
 **jomsk1e/jomsk1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-   :computer: I am currently working at **Softcreek**
+-   :smirk: Interested in everything **open source**
+-   :camera: Re-started learning photography
+-   :books: I love to read long form articles and books on random things
