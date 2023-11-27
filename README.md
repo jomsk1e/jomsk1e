@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--   :computer: Currently building our own consulting company: **Softcreek**
--   💬 Want to discuss tech, memes, science, life, future? Me too!
+-   :computer: Currently building our own consulting startup: **Softcreek**
+-   💬 Want to discuss tech, memes, science, life, past & future? Me too!
 -   :books: I love to read long form articles and books on random things
