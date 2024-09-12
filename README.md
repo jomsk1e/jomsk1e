@@ -1,21 +1,5 @@
-<img src="https://raw.githubusercontent.com/jomsk1e/jomsk1e/main/jomsk1e.png" alt="banner" style="text-align: center; margin-bottom: 30px;" />
-
-<!--
-**jomsk1e/jomsk1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
--   🔭 Currently working on a personal project
--   :books: Currently re-reading Origin by Dan Brown 
--   💬 Want to discuss tech, memes, science, life, past & future? Me too!
--   :books: I love to read long form articles and books on random things
+### Hello There! 👋
+##### Feel free to reach out to discuss a project, share ideas or just say hi! 
+[![Stack Overflow](https://img.shields.io/badge/-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1638261/jomsk1e)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jomsk1e/)
+[![ArtCDC](https://img.shields.io/badge/-000000?style=flat&logo=firefox&logoColor=white)](https://www.artcdc.com)
